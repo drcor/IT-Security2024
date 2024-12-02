@@ -1,0 +1,2286 @@
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "dso",
+    "ts": "2022-06-28T11:58:15.565Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:58:15.605Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": null
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:58:15.872Z"
+}
+
+f/i/state/dsi
+{
+    "active": 0,
+    "code": 0,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:58:16.757Z"
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:58:16.863Z"
+}
+
+f/i/state/dsi
+{
+    "active": 0,
+    "code": 0,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:58:17.031Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:58:17.048Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": -4,
+    "aY1": 1,
+    "aY2": 2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:16.919Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": -4,
+    "aY1": 1,
+    "aY2": 2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:16.919Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": -4,
+    "aY1": 1,
+    "aY2": 2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:16.919Z"
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:58:17.111Z"
+}
+
+f/i/state/dsi
+{
+    "active": 1,
+    "code": 0,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:58:17.204Z"
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:58:17.243Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:17.303Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:17.342Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:58:18.885Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:20.937Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:20.954Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:22.065Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:24.126Z"
+}
+
+f/i/state/dsi
+{
+    "active": 1,
+    "code": 1,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:58:24.929Z"
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:58:25.103Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:25.476Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:25.693Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:25.837Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:58:25.918Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": null
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:58:25.952Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:58:27.121Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:27.506Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:27.580Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:28.060Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:28.835Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:58:28.899Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:30.317Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:30.461Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:31.517Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:31.659Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:33.000Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:33.140Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:33.560Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:35.868Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:58:36.010Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": null
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:58:36.025Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:58:37.247Z"
+}
+
+f/i/nfc/ds
+{
+    "history": null,
+    "ts": "2022-06-28T11:58:37.297Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "NONE"
+    }
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:58:38.949Z"
+}
+
+f/i/nfc/ds
+{
+    "history": [
+        {
+            "code": 100,
+            "ts": "2022-06-28T11:58:28.825Z"
+        },
+        {
+            "code": 200,
+            "ts": "2022-06-28T11:58:31.648Z"
+        }
+    ],
+    "ts": "2022-06-28T11:58:38.986Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+fl/vgr/do
+{
+    "code": 1,
+    "ts": "2022-06-28T11:58:39.098Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+fl/vgr/do
+{
+    "code": 1,
+    "ts": "2022-06-28T11:58:39.098Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+fl/vgr/do
+{
+    "code": 1,
+    "ts": "2022-06-28T11:58:39.098Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+f/i/state/dsi
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:58:39.113Z"
+}
+
+fl/vgr/do
+{
+    "code": 1,
+    "ts": "2022-06-28T11:58:39.098Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:58:39.139Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:58:39.121Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:39.183Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": null
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:58:39.175Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -9,
+    "aX2": -9,
+    "aY1": -9,
+    "aY2": -9,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:39.277Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -9,
+    "aX2": -9,
+    "aY1": -9,
+    "aY2": -9,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:39.277Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -9,
+    "aX2": -9,
+    "aY1": -9,
+    "aY2": -9,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:39.277Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -10,
+    "aX2": -7,
+    "aY1": -6,
+    "aY2": -7,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:45.346Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -10,
+    "aX2": -7,
+    "aY1": -6,
+    "aY2": -7,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:45.346Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -10,
+    "aX2": -7,
+    "aY1": -6,
+    "aY2": -7,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:45.346Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 0,
+    "aY1": 1,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:45.425Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 0,
+    "aY1": 1,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:45.425Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 0,
+    "aY1": 1,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:45.425Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:45.964Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:58:46.043Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": null
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:58:46.088Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:58:47.265Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:47.344Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:47.378Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:48.804Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:58:48.975Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -10,
+    "aX2": -6,
+    "aY1": -4,
+    "aY2": -7,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:55.858Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -10,
+    "aX2": -6,
+    "aY1": -4,
+    "aY2": -7,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:55.858Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -10,
+    "aX2": -6,
+    "aY1": -4,
+    "aY2": -7,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:55.858Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -1,
+    "aX2": -2,
+    "aY1": -1,
+    "aY2": -2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:55.947Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -1,
+    "aX2": -2,
+    "aY1": -1,
+    "aY2": -2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:55.947Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -1,
+    "aX2": -2,
+    "aY1": -1,
+    "aY2": -2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:58:55.947Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:58:56.098Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:58:56.149Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": null
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:58:56.170Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:58:57.315Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:58:59.134Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 2,
+    "aY1": 2,
+    "aY2": 1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:01.124Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 2,
+    "aY1": 2,
+    "aY2": 1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:01.124Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 2,
+    "aY1": 2,
+    "aY2": 1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:01.124Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:06.113Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:06.192Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": null
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:59:06.325Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:59:07.547Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:07.582Z"
+}
+
+fl/hbw/ack
+{
+    "code": 1,
+    "ts": "2022-06-28T11:59:07.631Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+fl/hbw/ack
+{
+    "code": 1,
+    "ts": "2022-06-28T11:59:07.631Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+fl/vgr/do
+{
+    "code": 2,
+    "ts": "2022-06-28T11:59:07.735Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:07.853Z"
+}
+
+fl/vgr/do
+{
+    "code": 2,
+    "ts": "2022-06-28T11:59:07.735Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+fl/vgr/do
+{
+    "code": 2,
+    "ts": "2022-06-28T11:59:07.735Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:07.858Z"
+}
+
+fl/vgr/do
+{
+    "code": 2,
+    "ts": "2022-06-28T11:59:07.735Z",
+    "workpiece": {
+        "id": "043b60a2186581",
+        "state": "RAW",
+        "type": "WHITE"
+    }
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": {
+                "id": "043b60a2186581",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:59:07.936Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:59:09.154Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": -8,
+    "aY1": -5,
+    "aY2": -5,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:09.507Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": -8,
+    "aY1": -5,
+    "aY2": -5,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:09.507Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": -8,
+    "aY1": -5,
+    "aY2": -5,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:09.507Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:09.821Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:09.821Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:09.821Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -8,
+    "aX2": -8,
+    "aY1": -8,
+    "aY2": -8,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:15.154Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -8,
+    "aX2": -8,
+    "aY1": -8,
+    "aY2": -8,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:15.154Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -8,
+    "aX2": -8,
+    "aY1": -8,
+    "aY2": -8,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:15.154Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:15.423Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:15.423Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:15.423Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:16.310Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:16.367Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": {
+                "id": "043b60a2186581",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:59:16.382Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:16.805Z"
+}
+
+f/i/state/dsi
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:59:16.976Z"
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:59:17.005Z"
+}
+
+f/i/state/vgr
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:17.036Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:17.075Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:17.102Z"
+}
+
+f/i/state/dsi
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:59:17.145Z"
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:59:17.165Z"
+}
+
+f/i/state/dsi
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dsi",
+    "ts": "2022-06-28T11:59:17.193Z"
+}
+
+f/i/state/dso
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "dso",
+    "ts": "2022-06-28T11:59:17.216Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:59:17.617Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -1,
+    "aX2": -4,
+    "aY1": 0,
+    "aY2": -6,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:19.001Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -1,
+    "aX2": -4,
+    "aY1": 0,
+    "aY2": -6,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:19.001Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -1,
+    "aX2": -4,
+    "aY1": 0,
+    "aY2": -6,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:19.001Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:59:19.266Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 2,
+    "aX2": 1,
+    "aY1": 1,
+    "aY2": 1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:20.992Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 2,
+    "aX2": 1,
+    "aY1": 1,
+    "aY2": 1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:20.992Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 2,
+    "aX2": 1,
+    "aY1": 1,
+    "aY2": 1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:20.992Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": -1,
+    "aY1": -7,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:23.884Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": -1,
+    "aY1": -7,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:23.884Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 0,
+    "aX2": -1,
+    "aY1": -7,
+    "aY2": -1,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:23.884Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:24.313Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:24.313Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -6,
+    "aX2": 0,
+    "aY1": 0,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:24.313Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 1,
+    "aY1": -2,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:25.102Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 1,
+    "aY1": -2,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:25.102Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 1,
+    "aY1": -2,
+    "aY2": 0,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:25.102Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:26.335Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:26.400Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": {
+                "id": "043b60a2186581",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:59:26.563Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 4,
+    "aY1": 1,
+    "aY2": -2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:26.905Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 4,
+    "aY1": 1,
+    "aY2": -2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:26.905Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": 1,
+    "aX2": 4,
+    "aY1": 1,
+    "aY2": -2,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:26.905Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:59:27.765Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:59:29.388Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:32.092Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:32.259Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -13,
+    "aX2": -12,
+    "aY1": -12,
+    "aY2": -12,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:32.381Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -13,
+    "aX2": -12,
+    "aY1": -12,
+    "aY2": -12,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:32.381Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -13,
+    "aX2": -12,
+    "aY1": -12,
+    "aY2": -12,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:32.381Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -2,
+    "aX2": -2,
+    "aY1": -7,
+    "aY2": -3,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:32.439Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -2,
+    "aX2": -2,
+    "aY1": -7,
+    "aY2": -3,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:32.439Z"
+}
+
+fl/ssc/joy
+{
+    "aX1": -2,
+    "aX2": -2,
+    "aY1": -7,
+    "aY2": -3,
+    "b1": false,
+    "b2": false,
+    "ts": "2022-06-28T11:59:32.439Z"
+}
+
+f/i/state/vgr
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "vgr",
+    "target": "hbw",
+    "ts": "2022-06-28T11:59:36.462Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:36.615Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": {
+                "id": "043b60a2186581",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:59:36.790Z"
+}
+
+f/i/state/sld
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "sld",
+    "ts": "2022-06-28T11:59:37.803Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:38.986Z"
+}
+
+f/i/state/hbw
+{
+    "active": 1,
+    "code": 2,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:39.046Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:39.071Z"
+}
+
+f/i/state/hbw
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "hbw",
+    "ts": "2022-06-28T11:59:39.203Z"
+}
+
+f/i/stock
+{
+    "stockItems": [
+        {
+            "location": "A1",
+            "workpiece": null
+        },
+        {
+            "location": "A2",
+            "workpiece": null
+        },
+        {
+            "location": "A3",
+            "workpiece": {
+                "id": "04775fa2186580",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "B1",
+            "workpiece": null
+        },
+        {
+            "location": "B2",
+            "workpiece": null
+        },
+        {
+            "location": "B3",
+            "workpiece": {
+                "id": "04435ea2186581",
+                "state": "RAW",
+                "type": "RED"
+            }
+        },
+        {
+            "location": "C1",
+            "workpiece": {
+                "id": "043b60a2186581",
+                "state": "RAW",
+                "type": "WHITE"
+            }
+        },
+        {
+            "location": "C2",
+            "workpiece": null
+        },
+        {
+            "location": "C3",
+            "workpiece": {
+                "id": "040461a2186581",
+                "state": "RAW",
+                "type": "BLUE"
+            }
+        }
+    ],
+    "ts": "2022-06-28T11:59:39.243Z"
+}
+
+f/i/state/mpo
+{
+    "active": 0,
+    "code": 1,
+    "description": "",
+    "station": "mpo",
+    "ts": "2022-06-28T11:59:39.407Z"
+}
+
