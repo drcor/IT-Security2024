@@ -1,5 +1,7 @@
 # IT-Security2024
 
+Representation of a message `hi` encoded432q   
+
 ```text
 00000010	STX - start of text
 01101000	h
