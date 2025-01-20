@@ -20,8 +20,8 @@ def binary_array_to_ascii(bin_array):
 
 def decode_message(input_file):
     bin_array = []
-    start_message = [0, 0, 0, 0, 0, 0, 1, 0]  # STX
-    end_message = [0, 0, 0, 0, 0, 0, 1, 1]  # ETX
+    start_message = [0, 0, 0, 0, 0, 0, 1, 0]    # STX
+    end_message = [0, 0, 0, 0, 0, 0, 1, 1]      # ETX
 
     counter = 0
 
@@ -59,8 +59,9 @@ def decode_message(input_file):
 
 
 if __name__ == "__main__":
-    # Load the pcap file
-    input_filename = "capture_4_edited.pcapng"  # Replace with your pcap file path
+    input_filename = "capture_4_encoded.pcapng"  # Replace with the pcap file path
+
+    print(f"Decoding file: {input_filename}")
 
     message = decode_message(input_filename)
     print(f"Decoded message: '{message}'")

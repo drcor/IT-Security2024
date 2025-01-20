@@ -10,7 +10,7 @@ Representation of a message `hi` encoded432q
 ```
 
 - When the seconds number is odd, then it represents a 1.
-- When the seconds numeber is even, then it represents a 0.
+- When the seconds number is even, then it represents a 0.
 
 ```text
 2022-06-28T11:42:18.037000Z - 0

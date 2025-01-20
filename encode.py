@@ -23,7 +23,7 @@ def encode_message(input_file, msg="") -> int:
     # DEBUG: Create delay so that the decode function can identify the beginning of the text
     delay_iterations = random.randint(0, 8)
     count_delay = 0
-    print(f"Delay of {delay_iterations} MQTT packets")
+    # print(f"Delay of {delay_iterations} MQTT packets")
 
     counter = 0
 
@@ -37,6 +37,7 @@ def encode_message(input_file, msg="") -> int:
 
         counter += 1
         # DEBUG: So that the encoding message doesn't start imediatly in the first packet
+        # To make the code more fault proof
         if count_delay < delay_iterations:
             count_delay += 1
             continue
@@ -72,7 +73,7 @@ def encode_message(input_file, msg="") -> int:
         date_string_utc = datetime_obj_utc.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3]+"Z"
         # print(f'>>>{data["ts"]} {date_string_utc}')
 
-        # Encode or decode the message in the timestamp
+        # Update packet with the new modified timestamp
         data["ts"] = date_string_utc
 
 
@@ -85,25 +86,20 @@ def encode_message(input_file, msg="") -> int:
         # Rebuild the packet to ensure all fields are recalculated
         pkt = pkt.__class__(bytes(pkt))
 
-        val_after = str(pkt[MQTTPublish].value)
-
     # Save file
-    output_file = input_file.split('.')[0] + '_edited.pcapng'
+    output_file = input_file.split('.')[0] + '_encoded.pcapng'
     wrpcap(output_file, packets)
 
     return len(binary_message) + 16
 
 
-"""
-    1. describe a step by step how to reproduce the encoding, decoding, etc
-"""
-
 if __name__ == "__main__":
-    message = "It's working fine! For now..."
+    message = input("Insert a message to encode: ")
+    print("Encoding...")
 
-    # Load the pcap file
-    input_filename = "capture_4.pcapng"  # Replace with your pcap file path
+    input_filename = "capture_4.pcapng"  # Replace with the pcap file path
 
     encode_message(input_filename, message)
 
     print(f"Encoded message: '{message}'")
+    print(f"Saved to file: '{input_filename.split('.')[0]}_encoded.{input_filename.split('.')[1]}'")
